@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-  
-  <br/>
-  
-  ![Python](https://img.shields.io/badge/Python-Dynamic-blue?style=for-the-badge&logo=python&logoColor=white)
-  ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-</div>
+<p align="center"><img src="assets/github-banner.svg" alt="CYBER FORENSIC LAB" width="100%" /></p>
 
-# 🕵️‍♂️ Cyber Forensic LAB
+<h1 align="center">CYBER FORENSIC LAB</h1>
+
+<p align="center">An interactive web platform for learning digital forensics through guided investigation simulations.</p>
+
+<p align="center"><sub>Node.js · MongoDB · Cybersecurity</sub></p>
+
+---
 
 ![Cyber Forensic LAB Hero](./assets/images/hero_banner.png)
 
